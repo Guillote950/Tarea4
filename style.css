@@ -1,0 +1,50 @@
+body{
+	background-color: #1E6BA2;
+}
+h1{
+	font-family: arial;
+	text-align: center;
+	color: skyblue;
+	text-transform: uppercase;
+}
+
+img{
+
+  	width:30%;
+  	height:30%;
+	display:block;
+	margin:auto;
+	border-radius: 10px;
+}
+
+h3{
+	font-family: italic	;
+	text-align: left;
+	color: white;
+	font-size: 20px;
+
+}
+
+h4{
+    text-align: left;
+	font-weight: bold;	
+	color: deepskyblue;
+}
+
+
+p{
+ 	font-family:  arial;
+ 	text-align: left;
+ 	color: white;
+
+}
+.destacados{
+		color: lightskyblue;
+		font-weight: bolder;
+}
+
+a{
+	text-decoration: none;	
+	color: orange;
+}
+
